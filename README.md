@@ -55,20 +55,20 @@ The script loops through real estate pages, collects property data, and saves it
 
 ### Results
 - **Linear Regression**:
-  - Train R² Score: [Value]
-  - Test R² Score: [Value]
+  - Train R² Score: [0.045]
+  - Test R² Score: [0.0715]
 - **Ridge Regression**:
-  - Train R² Score: [Value]
-  - Test R² Score: [Value]
+  - Train R² Score: [0.0448]
+  - Test R² Score: [0.0665]
 - **Lasso Regression**:
-  - Train R² Score: [Value]
-  - Test R² Score: [Value]
+  - Train R² Score: [0.045]
+  - Test R² Score: [0.0712]
 - **Random Forest**:
-  - Train R² Score: [Value]
-  - Test R² Score: [Value]
+  - Train R² Score: [0.81]
+  - Test R² Score: [0.259]
 - **Gradient Boosting**:
-  - Train R² Score: [Value]
-  - Test R² Score: [Value]
+  - Train R² Score: [0.81]
+  - Test R² Score: [0.259]
 
 ## Conclusion
 
